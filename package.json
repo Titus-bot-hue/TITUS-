@@ -1,5 +1,5 @@
 {
-  "name": "CypherX",
+  "name": "TITUS BOT",
   "version": "1.8.7",
   "description": "The best Whatsapp bot",
   "main": "index.js",
@@ -9,12 +9,12 @@
    },
   "scripts": {
       "start": "node index.js",
-      "dev": "nodemon cypher.js",
+      "dev": "nodemon TITUS.js",
       "stop": "pkill -f node",
       "restart": "pkill -f node && npm start",
       "test": "echo \"Error: no test specified\" && exit 1"
    },
-  "author": "Tylor",
+  "author": "TITUS",
   "dependencies": {
         "adm-zip": "^0.5.16",
         "better-sqlite3": "^12.2.0",
