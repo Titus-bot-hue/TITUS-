@@ -1,0 +1,37 @@
+{
+  "name": "TITUS BOT",
+  "description": "titus bot, your friendly assistant!",
+  "logo": "https://i.ibb.co/nqsRcKDB/Xploader4.jpg",
+  "keywords": [],
+  "repository": "",https://github.com/Titus-bot-hue/Titus-bot.
+  "stack": "container",
+  "addons": [
+    {
+      "plan": "heroku-postgresql"
+    }
+  ],
+  "scripts": {
+    "start": "node index.js"
+  },
+"env": {
+  "SESSION_ID": {
+    "description": "Must begin with 'TITUS TECH-BOT:~' or 'TITUS-BOT:~'.",
+    "value": "",
+    "required": false
+  }
+},
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/Titus-bot-hue/Titus-bot."
+    },
+    {
+      "url": "https://github.com/Titus-bot-hue/Titus-bot."
+    },
+    {
+      "url": "https://github.com/Titus-bot-hue/Titus-bot."
+    }
+  ]
+}
