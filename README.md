@@ -1,4 +1,4 @@
-         ![IMG-20260121-WA0003](https://github.com/user-attachments/assets/363cbeb8-3364-41cb-8cae-44306fffb801)
+![IMG-20260121-WA0003](https://github.com/user-attachments/assets/363cbeb8-3364-41cb-8cae-44306fffb801)
 <!-- Glowing Header -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Titus-bot-hue/TITUS-BOT-Quantum/main/TITUS-BOT-Quantum.jpg" width="400" style="border-radius:50%; box-shadow:0 0 25px #00ffea;">
