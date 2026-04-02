@@ -1,5 +1,4 @@
 ![IMG-20260121-WA0003](https://github.com/user-attachments/assets/363cbeb8-3364-41cb-8cae-44306fffb801)
-<!-- Glowing Header -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Titus-bot-hue/TITUS-BOT-Quantum/main/TITUS-BOT-Quantum.jpg" width="400" style="border-radius:50%; box-shadow:0 0 25px #00ffea;">
 </p>
@@ -42,40 +41,6 @@
   <a href="https://heroku.com" target="_blank">
     <img src="https://img.shields.io/badge/Deploy%20on%20Heroku-000000?style=for-the-badge&logo=heroku&logoColor=white&color=8A2BE2" width="260"/>
   </a>
-</p>
-
----
-
-<h2 align="center">🧠 Setup Instructions</h2>
-
-```bash
-# Clone the repository
-git clone https://github.com/Titus-bot-hue/TITUS-BOT-Quantum.git
-cd TITUS-BOT-Quantum
-
-# Install dependencies
-npm install
-
-# Start the bot
-npm start
-<!-- Glowing Header -->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Titus-bot-hue/TITUS-BOT-Quantum/main/TITUS-BOT-Quantum.jpg" width="400" style="border-radius:50%; box-shadow:0 0 25px #00ffea;">
-</p>
-
-<h1 align="center" style="color:#00ffea;">
-  ⚡ TITUS-BOT Quantum Edition ⚡
-</h1>
-
-<p align="center">
-  🔥 The Ultimate WhatsApp Multi-Device Bot — by <b>Titus Mutuku</b>
-</p>
-
-<!-- Animated Tagline -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&color=00FF00&center=true&vCenter=true&width=500&lines=🚀+Fast+•+Secure+•+Reliable;🤖+Next-Gen+WhatsApp+Automation;💎+Quantum+Edition+Activated!" />
 </p>
 
 ---
